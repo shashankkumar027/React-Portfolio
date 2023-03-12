@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "date": "02/03/2023",
+      "title": "Live Chat",
+      "description": "This is a real time chat application made using mern stack, and used axios for connecting frontend with backend.",
+      "url": "https://livechat001.netlify.app/",
+      "imgSrc": "https://www.liveagent.com/app/uploads/2022/07/Chat-help-desk-software-homepage.png"
+    },
+    {
+      "date": "23/02/2023",
+      "title": "MBA Chaiwala Clone",
+      "description": "This is the clone of MBA chaiwala website same animated cursor and animations using react on frontend and sass for styling.",
+      "url": "https://mbachaiwala001.netlify.app/",
+      "imgSrc": "https://www.mbachaiwala.com/wp-content/uploads/2022/07/Kiosk-1.png"
+    },
+
+    {
+      "date": "10/12/2022",
+      "title": "VIDEO HUB",
+      "description": "This is the multipage react website made using chakra ui and react router dom with dual theme support.",
+      "url": "https://videohub001.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "27/11/2022",
+      "title": "XCrypto",
+      "description": "This is the react app in which showing real time data of crypto coming from api in three different currencies, made using chakra ui, sass, chart js and react chartjs.",
+      "url": "https://xcrypto001.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/11/2022",
+      "title": "REACT CART",
+      "description": "This is a shopping cart app where you can add items to cart, update it or delete from cart all this with real time data change, used redux & toolkit for state management.",
+      "url": "https://ekart001.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "25/10/2022",
+      "title": "PORTFOLIO",
+      "description": "The place where you get to know about me and my works, and also you can contact with me.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "YOR Chat",
+      "description": "This is react chat app made using chakra ui on frontend, firebase backend as a service and google authantication for login & sing-up.",
+      "url": "https://yorchat.netlify.app/",
+      "imgSrc": "https://img.freepik.com/premium-vector/chatting-design-concept-with-hand-holding-cellphone_7087-798.jpg"
+    },
+
+    {
+      "date": "07/09/2022",
+      "title": "TECHY HUB",
+      "description": "This is a frontend of software consultancy company website made using react on frontend, sass for styling and react responsive carousel.",
+      "url": "https://techyhub.netlify.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    }
+    
+  ]
+}
